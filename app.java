@@ -7,6 +7,9 @@ class HelloWorld
 		System.out.prinltn("Enter number of times you need printing :");
 		int n=sc.nextInt();
 		for(int i=1; i<n; i++)
+		{
 		System.out.println("Hello Git World");
+		System.out.println("Hello New Functionality");
+	}
 	}
 }
